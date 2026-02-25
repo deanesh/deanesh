@@ -3,7 +3,7 @@ Senior Data Analyst | AI & Machine Learning Engineer
 Lead Engineer (20+ Years Experience) | Transitioning to Data Science & AI/ML
 
 ### Professional Pivot
-Background: Former Lead Engineer at <b>Cisco Systems<b> with a deep foundation in high-scale product development and ETL automation.
+Background: Former Lead Engineer at Cisco Systems with a deep foundation in high-scale product development and ETL automation.
 
 Current Specialization: Completing Advanced Certification in Data Analytics & Full Stack at ETL Hive.
 
