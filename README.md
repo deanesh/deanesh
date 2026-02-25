@@ -1,8 +1,10 @@
-Hi, I'm Deanesh Takkallapati 
+Deanesh Takkallapati 
 
     Senior Engineer (20+ Years) | Transitioning to Data Science & AI/ML
 
-Former Lead Engineer at Cisco with a deep background in high-scale product development and ETL automation. Currently specializing in Data Analytics and Predictive Modeling.
+Former Lead Engineer at Cisco with a deep background in high-scale product development and ETL automation.
+
+Currently specializing in Data Analytics and Predictive Modeling.
 
 Professional Pivot
 
